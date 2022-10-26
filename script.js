@@ -1,0 +1,1 @@
+//this is a javascript file and i'm just testing out the functionality to know if my git works fine or not 
